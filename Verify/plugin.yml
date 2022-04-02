@@ -1,0 +1,8 @@
+name: "Verify"
+version: "1.0"
+api: ["3"]
+main: xxAROX\Verify\VerifyMain
+
+commands:
+  "verify":
+    description: "Verify to your discord account"
